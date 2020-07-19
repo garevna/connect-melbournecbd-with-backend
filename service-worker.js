@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/connect-melbournecbd/precache-manifest.53d33052dfa83bb9f8da4de6c965b135.js"
+  "/connect-melbournecbd.pineapple.net.au/precache-manifest.33a6ef44c8c27a1a009e27bc088da9ae.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "connect-melbournecbd.pineapple.net.au"});
